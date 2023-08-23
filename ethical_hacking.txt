@@ -1,0 +1,6 @@
+sudo snmp-check --help
+
+NTP Enumeration - sync the system clock
+SMTP Enumeration - 
+- Full form > The Simple Mail Transfer Protocol (SMTP)
+- Electronic mail transmission
