@@ -4,3 +4,40 @@ NTP Enumeration - sync the system clock
 SMTP Enumeration - 
 - Full form > The Simple Mail Transfer Protocol (SMTP)
 - Electronic mail transmission
+1.	ls: List files and directories in the current directory.
+	2.	cd: Change directory. Use “cd ..” to go up one level.
+	3.	pwd: Print the working directory (displays the current directory path).
+	4.	mkdir: Create a new directory.
+	5.	rmdir: Remove an empty directory.
+	6.	touch: Create a new empty file or update the timestamp of an existing file.
+	7.	rm: Remove files or directories. Use with caution, as it’s irreversible.
+	8.	cp: Copy files or directories.
+	9.	mv: Move or rename files or directories.
+	10.	cat: Display the content of a file.
+	11.	more/less: Display a file one screen at a time.
+	12.	head: Display the beginning of a file.
+	13.	tail: Display the end of a file.
+	14.	grep: Search for a specific pattern in files or output.
+	15.	find: Search for files and directories based on various criteria.
+	16.	chmod: Change file permissions.
+	17.	chown: Change file ownership.
+	18.	ps: List running processes.
+	19.	kill: Terminate processes or send signals to processes.
+	20.	top: Display dynamic view of system processes and resource usage.
+	21.	df: Display disk space usage of file systems.
+	22.	du: Display disk usage of files and directories.
+	23.	apt/apt-get: Package manager to install, update, and manage software packages.
+	24.	dpkg: Package manager for Debian-based systems (like Kali Linux).
+	25.	wget/curl: Download files from the internet.
+	26.	tar: Archive and extract files.
+	27.	zip/unzip: Compress and decompress files.
+	28.	ping: Check network connectivity by sending ICMP packets to a host.
+	29.	ifconfig/ip: Network configuration commands to view and modify network interfaces.
+	30.	nmap: Network scanning tool to discover hosts and services on a network.
+	31.	netstat: Display network statistics and active connections.
+	32.	ssh: Secure Shell to access remote systems securely.
+	33.	whoami: Show the currently logged-in user.
+	34.	history: Display the command history.
+	35.	date: Show the current date and time.
+	36.	cal: Display the calendar.
+	37.	uname: Display system i
