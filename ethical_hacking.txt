@@ -40,4 +40,4 @@ SMTP Enumeration -
 	34.	history: Display the command history.
 	35.	date: Show the current date and time.
 	36.	cal: Display the calendar.
-	37.	uname: Display system i
+	
